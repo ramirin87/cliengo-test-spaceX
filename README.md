@@ -11,7 +11,6 @@ This Spring Boot application provides an API endpoint that retrieves data from S
 - [Usage](#usage)
 - [Testing](#testing)
 - [Technologies](#technologies)
-- [License](#license)
 
 ## Overview
 
